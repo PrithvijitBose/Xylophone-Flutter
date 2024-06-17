@@ -1,16 +1,12 @@
-# xylophone
+# Xylophone 🎹
 
-A new Flutter project.
+## Our Goal
 
-## Getting Started
+The Xylophone Flutter App is a simple, interactive musical instrument application that allows users to play different musical notes by tapping on colored keys. Each key corresponds to a different note, creating a fun and educational experience.
 
-This project is a starting point for a Flutter application.
+## What you will create
 
-A few resources to get you started if this is your first Flutter project:
+We’re going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
